@@ -37,4 +37,4 @@ Wiederhole die Schritte 1-4, bis die Funktion alle Anforderungen erfüllt und di
 4. Entferne ggf. redundanten Code
 
 ### Lösung:
-Eine mögliche Lösung befindet sich im Branch [solution](./tree/solution).
+Eine mögliche Lösung befindet sich im Branch [solution](/../../tree/solution).
