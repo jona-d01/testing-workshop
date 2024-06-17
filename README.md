@@ -64,3 +64,6 @@ https://playwright.dev/
 - [Assertions](https://playwright.dev/docs/test-assertions)
 - [Locators](https://playwright.dev/docs/locators)
 - [Actions](https://playwright.dev/docs/input)
+
+### Lösung:
+Eine mögliche Lösung befindet sich im Branch [solution](/../../tree/solution).
