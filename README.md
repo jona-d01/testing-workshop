@@ -38,3 +38,29 @@ Wiederhole die Schritte 1-4, bis die Funktion alle Anforderungen erfüllt und di
 
 ### Lösung:
 Eine mögliche Lösung befindet sich im Branch [solution](/../../tree/solution).
+
+
+## Aufgabe 2: UI-Tests mit Storybook
+
+### Ziel:
+Mit dieser Aufgabe soll das Schreiben von UI-Tests mit Playwright geübt werden.
+
+### Voraussetzungen:
+- [Node.js](https://nodejs.org/en/download/prebuilt-binaries) Installation
+- JavaScript Kenntnisse
+
+Führe folgenden Befehl aus, um die notwendigen Dependencies zu installieren.
+```bash
+cd Aufgabe_2
+npm install
+```
+
+### Anforderungen:
+Schreibe jeweils einen Test für die Aufgaben in der folgenden Datei: [example.spec.js](./Aufgabe_2/tests/example.spec.js)
+
+### Playwright-Dokumentation:
+
+https://playwright.dev/
+- [Assertions](https://playwright.dev/docs/test-assertions)
+- [Locators](https://playwright.dev/docs/locators)
+- [Actions](https://playwright.dev/docs/input)
