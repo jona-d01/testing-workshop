@@ -40,7 +40,7 @@ Wiederhole die Schritte 1-4, bis die Funktion alle Anforderungen erfüllt und di
 Eine mögliche Lösung befindet sich im Branch [solution](/../../tree/solution).
 
 
-## Aufgabe 2: UI-Tests mit Storybook
+## Aufgabe 2: UI-Tests mit Playwright
 
 ### Ziel:
 Mit dieser Aufgabe soll das Schreiben von UI-Tests mit Playwright geübt werden.
@@ -53,6 +53,7 @@ Führe folgenden Befehl aus, um die notwendigen Dependencies zu installieren.
 ```bash
 cd Aufgabe_2
 npm install
+npx playwright install
 ```
 
 ### Anforderungen:
